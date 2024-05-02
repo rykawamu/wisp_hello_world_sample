@@ -28,6 +28,10 @@ gleam shell # Run an Erlang shell
 
 ### Fizzbuzzについて
 
+以下のように「fizzbuzz/:id」の箇所に数字を入れると、fizzbuzzの結果をページに表示する
+
+localhost:8080/fizzbuzz/5
+
 ### peopleについて
 
 #### localhost:8080/people
